@@ -16,11 +16,6 @@ table {border: 4px solid black;
   
   textarea {width: 90%;}
 
-  footer{
-    background-color: gray;
-    padding: 0%;
-  }
-
 .sidebar {margin: 0%;
   padding:0px 30px 266px 0px;
   background-color:#98fb98;}
@@ -33,5 +28,6 @@ table {border: 4px solid black;
 
 footer{
   margin:0px 795px 0px 0px;
+  background-color: gray;
   padding:35px 0px 0px 0px;
-  background-color: gray;}
+}
