@@ -1,14 +1,17 @@
 h2 {
-  margin:0px 795px 0px 0px;
-  padding:20px 20px 20px 250px;
-  background-color:#ffff00;}
+  margin: 0px;
+  width: 455px;
+  padding: 20px 20px 20px 250px;
+  background-color: #ffff00;}
 
 .container {
+  width: 725px;
   display: flex;
   align-items: flex-start;}
 
-table {border: 4px solid black;
-    margin-bottom: 10px;}
+table {
+  border: 4px solid black;
+  margin-bottom: 10px;}
   
   th, td {border: 1px solid black;}
   
@@ -16,18 +19,20 @@ table {border: 4px solid black;
   
   textarea {width: 90%;}
 
-.sidebar {margin: 0%;
-  padding:0px 30px 266px 0px;
-  background-color:#98fb98;}
+.sidebar {
+  margin: 0%;
+  padding: 0px 30px 270px 0px;
+  background-color: #98fb98;}
 
-.form {margin: 0%;
-  padding:20px 30px 5px 30px;
-  background-color:#ffefd5;}
+.form {
+  margin: 0%;
+  padding: 24px 30px 5px 30px;
+  background-color: #ffefd5;}
   
 .button {text-align: right;}
 
 footer{
-  margin:0px 795px 0px 0px;
+  width: 725px;
+  margin: 0px;
   background-color: gray;
-  padding:35px 0px 0px 0px;
-}
+  padding: 35px 0px 0px 0px;}
